@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mboye.github.io/about/</loc>
-    <lastmod>2020-05-23T20:55:30+03:00</lastmod>
+    <loc>https://mboye.github.io/blog/</loc>
+    <lastmod>2020-11-22T15:58:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mboye.github.io/blog/lorem/</loc>
+    <lastmod>2020-11-22T15:58:18+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mboye.github.io/</loc>
-    <lastmod>2020-05-23T20:55:30+03:00</lastmod>
+    <lastmod>2020-11-22T15:58:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mboye.github.io/post/</loc>
-    <lastmod>2020-05-23T20:26:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mboye.github.io/post/2020-05-23-todo/</loc>
-    <lastmod>2020-05-23T20:26:20+03:00</lastmod>
+    <loc>https://mboye.github.io/test/</loc>
+    <lastmod>2020-11-20T21:55:30+03:00</lastmod>
   </url>
   
   <url>
