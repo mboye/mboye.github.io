@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mboye·net</title>
-    <link>https://mboye.github.io/</link>
+    <link>https://blog.mboye.net/</link>
     <description>Recent content on mboye·net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Magnus Boye</copyright>
-    <lastBuildDate>Sun, 22 Nov 2020 15:58:18 +0200</lastBuildDate><atom:link href="https://mboye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 15:58:18 +0200</lastBuildDate><atom:link href="https://blog.mboye.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem</title>
-      <link>https://mboye.github.io/blog/lorem/</link>
+      <link>https://blog.mboye.net/blog/lorem/</link>
       <pubDate>Sun, 22 Nov 2020 15:58:18 +0200</pubDate>
       
-      <guid>https://mboye.github.io/blog/lorem/</guid>
+      <guid>https://blog.mboye.net/blog/lorem/</guid>
       <description>Amet qui dolore Lorem magna quis duis consectetur velit. Quis magna aliquip duis nisi nulla voluptate veniam pariatur esse mollit dolor ex cillum voluptate. Non quis dolor ex ad amet mollit tempor nulla incididunt non. Exercitation aliqua culpa sit cillum elit non et anim. Ut nulla magna ad consectetur nisi nulla do commodo dolor minim labore deserunt dolore.
 Exercitation adipisicing pariatur culpa culpa amet ipsum aliquip culpa Lorem id pariatur veniam amet.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://mboye.github.io/test/</link>
+      <link>https://blog.mboye.net/test/</link>
       <pubDate>Fri, 20 Nov 2020 21:55:30 +0300</pubDate>
       
-      <guid>https://mboye.github.io/test/</guid>
+      <guid>https://blog.mboye.net/test/</guid>
       <description>Hello, I am a software developer with an interest in distributed systems. These days I develop web applications using NodeJS, TypeScript, and Kubernetes.</description>
     </item>
     
